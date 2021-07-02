@@ -1,0 +1,142 @@
+div.div1{
+    text-align: center;
+    border-style: groove;
+    color: gold;
+    width: 70%;
+    margin: auto;
+    border-color: green;
+}
+div.bad{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    margin-left: 80px;
+    text-align: center;
+}
+div.bad2{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.bad3{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.bad4{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.sad{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 30px;
+    text-align: center;
+}
+div.sad2{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.sad3{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.sad4{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.sad5{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.sad6{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.sad7{
+    float: left;
+    border-style: double;
+    border-color: gold;
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    margin: 20px 20px;
+    text-align: center;
+}
+div.centro{
+    border-style: solid;
+    background-size: 900px 300px;
+    border-color: green;
+    height: 300px;
+    width: 876px;
+    background-color: rgba(48, 5, 48, 0.575);
+    margin: 50px 50px;
+    text-align: center;
+    margin-left: 230px;
+}
+
